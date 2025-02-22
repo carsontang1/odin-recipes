@@ -1,0 +1,1 @@
+This project creates a webpage to display three different recipes. It highlights the ability to implement different headings, images, hyperlinks, unordered lists, and ordered lists.
